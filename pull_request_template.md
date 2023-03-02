@@ -6,4 +6,4 @@
 
 ---
 
-Repl 連結：
+Repl 連結：https://replit.com/@Guan-Lin-Bill32/text#main.cpp
