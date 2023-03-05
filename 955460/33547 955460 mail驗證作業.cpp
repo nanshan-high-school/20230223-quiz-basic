@@ -11,15 +11,15 @@ int main() {
      int level;
      level = 0;
 if(mail[0] == 'a'&& mail[7] == '@' && mail[8] == 'g'&& mail[9] == 'm'&& mail[10] == 'a'&& mail[11] == 'i'&& mail[12] == 'l'&& mail[13] == '.'&& mail[14] == 'c'&& mail[15] == 'o'&& mail[16] == 'm'&& mail[1] - 48 > -1 && mail[2] - 48 > -1 && mail[3] - 48 > -1 && mail[4]- 48 > -1 && mail[5] - 48 > -1 && mail[6] - 48 > -1){
-cout << "gmail®æ¦¡¥¿½T";
+cout << "gmailæ ¼å¼æ­£ç¢º";
 
 }
-else{cout << "gmail®æ¦¡¿ù»~";}
+else{cout << "gmailæ ¼å¼éŒ¯èª¤";}
     
-if(len > 7){cout << "±K½X®æ¦¡¥¿½T";
+if(len > 7){cout << "å¯†ç¢¼æ ¼å¼æ­£ç¢º";
     }
 else{
-    cout <<"±K½X®æ¦¡¿ù»~(³Æµù:±K½Xµ¥¯ÅµL®Ä)";
+    cout <<"å¯†ç¢¼æ ¼å¼éŒ¯èª¤(å‚™è¨»:å¯†ç¢¼ç­‰ç´šç„¡æ•ˆ)";
     
 }
 int number;
@@ -44,5 +44,6 @@ else{
     break;
 }
     }
-cout << "±K½Xµ¥¯Å¬°:" << level;
+cout << "å¯†ç¢¼ç­‰ç´šç‚º:" << level;
     }
+
